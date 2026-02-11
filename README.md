@@ -1,7 +1,7 @@
-# finance-efficiency-calculator.
+# ROIC_BUSINESS_DIAGNOSTIC_TOOL
 Profit tells you if you made money. ROIC tells you if you are using your resources efficiently, and how much value you are creating compared to others in your industry.
-# ROIC Business Diagnostic Tool
 
+# ROIC Business Diagnostic Tool
 Try the Live App:
 (https://business-strength-calculator.base44.app/)
 
