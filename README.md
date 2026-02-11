@@ -3,7 +3,7 @@ Profit tells you if you made money. ROIC tells you if you are using your resourc
 # ROIC Business Diagnostic Tool
 
 Live App:
-https://your-base44-link.com
+(https://business-strength-calculator.base44.app/)
 
 ---
 
